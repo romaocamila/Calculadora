@@ -1,42 +1,42 @@
 # Calculadora em Python
 
-## Sobre o projeto
+Projeto desenvolvido durante o curso de **Análise de Dados da EBAC**, inicialmente em setembro de 2025, como exercício introdutório de lógica de programação.
 
-Este projeto foi desenvolvido durante o primeiro módulo do curso de Data Analytics da EBAC, em setembro de 2025, como exercício para praticar fundamentos de lógica de programação em Python.
-
-A aplicação permite que o usuário escolha uma operação matemática, informe os valores desejados e continue realizando cálculos até decidir encerrar o programa.
+A calculadora realiza operações matemáticas básicas e foi posteriormente revisada durante os estudos do **módulo 18, Manipulação de Dados com Python**, com o objetivo de aprimorar o código e corrigir problemas identificados na primeira versão.
 
 ## Funcionalidades
 
-- Soma
-- Subtração
-- Multiplicação
-- Divisão
-- Potenciação
-- Repetição de cálculos
-- Validação da opção escolhida pelo usuário
-
-## Conceitos praticados
-
-- `input()`
-- Conversão de tipos com `float()`
-- Estruturas condicionais
-- Estrutura de repetição `while`
-- Operadores matemáticos
-- Controle de fluxo
-- Conjuntos (`set`)
+* Soma
+* Subtração
+* Multiplicação
+* Divisão
+* Potência
+* Opção de continuar realizando cálculos
+* Validação das entradas
+* Tratamento de erros para entradas inválidas
 
 ## Tecnologias
 
-- Python
-- Jupyter Notebook
+* Python
+* Jupyter Notebook
+* Git e GitHub
 
-## Como executar
+## Versões
 
-O projeto pode ser executado utilizando Jupyter Notebook ou outra ferramenta compatível com arquivos `.ipynb`.
+### V1 - Jupyter Notebook | Setembro de 2025
 
-## Contexto
+Primeira versão do projeto, desenvolvida em setembro de 2025 durante o módulo de introdução à lógica de programação.
 
-Este foi o meu primeiro projeto em Python, desenvolvido durante a introdução à lógica de programação.
+Arquivo: `calculadora.ipynb`
 
-O objetivo principal era praticar os fundamentos da linguagem e entender como transformar uma sequência de regras em um programa funcional.
+### V2 - Python Script | Setembro de 2026
+
+Versão revisada durante os estudos do **módulo 18, Manipulação de Dados com Python**.
+
+As alterações foram feitas como parte do processo de revisão e prática dos conhecimentos adquiridos ao longo do curso, incluindo a **correção do fluxo de repetição, a validação das entradas e o tratamento de erros**.
+
+Arquivo: `calculadora_v2.py`
+
+## Objetivo
+
+Além de praticar conceitos básicos de programação, o projeto registra a evolução do código ao longo do curso, desde a primeira versão desenvolvida em 2025 até uma versão posteriormente revisada e aprimorada em setembro de 2026.
